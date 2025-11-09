@@ -38,37 +38,37 @@ const navItems = [
 const heroLogos = [
     {
         id: 1,
-        item: "/images/logo-1.png",
+        img: "/images/logo-1.png",
         width: 56,
     },
     {
         id: 2,
-        item: "/images/logo-2.png",
+        img: "/images/logo-2.png",
         width: 82,
     },
     {
         id: 3,
-        item: "/images/logo-3.png",
+        img: "/images/logo-3.png",
         width: 57,
     },
     {
         id: 4,
-        item: "/images/logo-4.png",
+        img: "/images/logo-4.png",
         width: 64,
     },
     {
         id: 5,
-        item: "/images/logo-5.png",
+        img: "/images/logo-5.png",
         width: 78,
     },
     {
         id: 6,
-        item: "/images/logo-6.png",
+        img: "/images/logo-6.png",
         width: 75,
     },
     {
         id: 7,
-        item: "/images/logo-7.png",
+        img: "/images/logo-7.png",
         width: 65,
     },
 ];
